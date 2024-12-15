@@ -8,15 +8,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andriy%20Konoplastiy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andriy-konoplastiy/)
 
 ## 💻 Tech Stack:
-- Java | JavaScript | TypeScript 
+- Java | TypeScript 
 - Spring (IoC, Boot, MVC, Data, Security, Cloud)
-- Angular, RxJS
+- Angular
 - SQL, NoSQL, JPA, Hibernate, JDBC
 - HTML, CSS,  SASS
-- Maven, Kafka, Docker, Git, JUnit, Mockito
+- Maven, RabbitMQ, Docker, Git, JUnit, Mockito, TestNG, JMeter
 
 ## 🎓 Education
 
+`2024-2026`
+__State University of Information and Communication Technologies | Master Software Engineering__
+
+
 `2020-2024`
-__State University of Information and Communication Technologies | Software Engineering__
+__State University of Information and Communication Technologies | Bachelor Software Engineering__
+
 
